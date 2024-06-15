@@ -1,0 +1,31 @@
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 60px;
+    background-color: #333;
+    color: #fff;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dadada;
+}

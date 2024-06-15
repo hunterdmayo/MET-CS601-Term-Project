@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    align-items: center;
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.quote {
+
+}
+
+.author {
+    font-style: italic;
+    padding-top: 20px;
+}

@@ -1,0 +1,19 @@
+.pokemon {
+    background-color: white;
+    border: 1px solid #ddd;
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Pseudo-Class */
+.pokemon:hover {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}

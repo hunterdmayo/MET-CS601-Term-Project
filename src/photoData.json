@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "description": "",
+        "imageURL": "/photos/1.jpg"
+    },
+    {
+        "id": 2,
+        "description": "",
+        "imageURL": "/photos/2.jpg"
+    },
+    {
+        "id": 3,
+        "description": "",
+        "imageURL": "/photos/3.jpg"
+    },
+    {
+        "id": 4,
+        "description": "",
+        "imageURL": "/photos/4.jpg"
+    },
+    {
+        "id": 5,
+        "description": "",
+        "imageURL": "/photos/5.jpg"
+    },
+    {
+        "id": 6,
+        "description": "",
+        "imageURL": "/photos/6.jpg"
+    },
+    {
+        "id": 7,
+        "description": "",
+        "imageURL": "/photos/7.jpg"
+    }
+]

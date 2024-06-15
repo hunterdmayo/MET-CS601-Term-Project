@@ -1,0 +1,25 @@
+.container-resume {
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 50px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.degree {
+    font-style: italic;
+}
+
+.job-duties {
+    list-style-type: circle;
+    padding-bottom: 10px;
+}

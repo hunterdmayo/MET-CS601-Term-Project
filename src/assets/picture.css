@@ -1,0 +1,17 @@
+.item {
+    background-color: white;
+    border: 1px solid #ddd;
+    height: 200px;
+    /* width: 200px; */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Pseudo-Class */
+.item:hover {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}

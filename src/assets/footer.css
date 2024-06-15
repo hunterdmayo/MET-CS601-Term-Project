@@ -1,0 +1,22 @@
+footer {
+    background-color: #333;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    align-items: center;
+    font-size: small;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    /* Flex properties */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    flex-shrink: 0;
+}
+
+/* Pseudo-class */
+footer:hover {
+    color: #dadada;
+}

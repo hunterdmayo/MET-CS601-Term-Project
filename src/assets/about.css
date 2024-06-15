@@ -1,0 +1,14 @@
+.container-about {
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Combinator + Pseudo-Element*/
+.container-about>div::first-letter {
+    font-size:large;
+}
