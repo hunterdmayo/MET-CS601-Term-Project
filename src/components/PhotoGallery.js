@@ -5,7 +5,7 @@ import "../assets/photo-gallery.css";
 function PhotoGallery() {
     return (
         <>
-            <h1 className='title'>Photo Gallery</h1>
+            <h1 className='title'>PHOTO GALLERY</h1>
             <div className='container'>
                 {photoData.map(photo =>
                     <Picture id={photo.id}

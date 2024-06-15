@@ -1,4 +1,4 @@
-.container-resume {
+.container-contact {
     font-family:'Courier New', Courier, monospace;
     display: flex;
     flex-direction: column;
@@ -9,17 +9,17 @@
     margin-left: 25%;
     margin-right: 25%;
     padding-bottom: 50px;
+    color:#333;
 }
 
-.subheading {
-    text-decoration: underline;
+a.contact-type {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: larger;
 }
 
-.degree {
-    font-style: italic;
-}
-
-.job-duties {
-    list-style-type: circle;
-    padding-bottom: 10px;
+.email {
+    margin-top: 10px;
+    color:#333;
+    font-size: larger;
 }

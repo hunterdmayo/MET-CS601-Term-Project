@@ -11,13 +11,3 @@
   align-items: center;
   height: 100%;
 }
-
-.light {
-  background-color: #fff;
-  color: #333;
-}
-
-.dark {
-  background-color: #333;
-  color:#fff;
-}

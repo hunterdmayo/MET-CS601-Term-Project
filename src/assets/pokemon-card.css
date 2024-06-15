@@ -1,5 +1,4 @@
 .pokemon-container {
-    /* padding-top: 50px; */
     /* Flex Properties */
     display:flex;
     flex-direction: column;

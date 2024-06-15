@@ -6,7 +6,7 @@ function Pokedex() {
   return (
     <>
       <div className="pokedex">
-        <h1 className="title">Pokedex</h1>
+        <h1 className="title">POKEDEX</h1>
         <h2>Select a pokemon to learn more!</h2>
         <div className="container">
             {pokemonData.pokemon.map((p) => (

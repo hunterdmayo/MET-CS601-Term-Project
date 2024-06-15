@@ -15,23 +15,6 @@ import PhotoGallery from './components/PhotoGallery';
 import PhotoCard from './components/PhotoCard';
 
 function App() {
-//   const container = document.getElementById('homepage');
-//   let isDark = false;
-//   function toggleDarkMode(event) {
-//     event.preventDefault();
-//     isDark = container.classList.contains('dark');
-//     if (isDark) {
-//         container.classList.remove('dark');
-//         container.classList.add('light');
-//     }
-//     else {
-//         container.classList.remove('light');
-//         container.classList.add('dark');
-//     } 
-//   }
-//   <body id='homepage'>
-//   <button id="darkModeButton" onClick={toggleDarkMode}>Toggle Dark Mode</button>
-// </body>
   
   return (
     <div>
