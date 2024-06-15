@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "description": "",
+        "description": "Hunter headshot",
         "imageURL": "/photos/1.jpg"
     },
     {
         "id": 2,
-        "description": "",
+        "description": "Wedding photo",
         "imageURL": "/photos/2.jpg"
     },
     {
         "id": 3,
-        "description": "",
+        "description": "Hunter and Katie in Waco, TX",
         "imageURL": "/photos/3.jpg"
     },
     {
         "id": 4,
-        "description": "",
+        "description": "Jack + dinosaur",
         "imageURL": "/photos/4.jpg"
     },
     {
         "id": 5,
-        "description": "",
+        "description": "Hunter and Katie in Wine Country",
         "imageURL": "/photos/5.jpg"
     },
     {
         "id": 6,
-        "description": "",
+        "description": "Hunter and Katie in rose garden",
         "imageURL": "/photos/6.jpg"
     },
     {
         "id": 7,
-        "description": "",
+        "description": "Hunter and Katie at the falls",
         "imageURL": "/photos/7.jpg"
     }
 ]
