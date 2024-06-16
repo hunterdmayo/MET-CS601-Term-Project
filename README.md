@@ -21,3 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Hosting
 A hosted version of my application can be found here: [https://hdm-cs601-term-project.netlify.app/]
+
+## Video Demonstration
+[https://vimeo.com/959145860]
